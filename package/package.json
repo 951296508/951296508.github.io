@@ -1,0 +1,14 @@
+{
+  "name": "zin-ui",
+  "version": "0.0.1",
+  "description": "zxw组件库",
+  "author": {
+    "name": "zin",
+    "email": "951296508@qq.com"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
