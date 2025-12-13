@@ -7,6 +7,7 @@ console.log("kkkkkkkkkkkkkkk", useAppStore().isCollapse);
 console.log("kkkkkkkkkkkkkkk", useAppStore().isCollapse);
 console.log("kkkkkkkkkkkkkkk", useAppStore().isCollapse);
 console.log("kkkkkkkkkkkkkkk", useAppStore().isCollapse);
+console.log("kkkkkkkkkkkkkkk", useAppStore().isCollapse);
 let a = import.meta.env.VITE_APP_TITLE;
 </script>
 <style scoped></style>
