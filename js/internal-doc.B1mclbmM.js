@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.BCo6x5W8.js";import{g as r,f as s,C as t}from"./index.CLwcgr5W.js";const a={class:"app-container"};const n=e({},[["render",function(e,n){return s(),r("div",a,[...n[0]||(n[0]=[t("iframe",{src:"https://juejin.cn/post/7228990409909108793",frameborder:"0"},null,-1)])])}],["__scopeId","data-v-d7e4408d"]]);export{n as default};
